@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CSE Student<br>Currently learning Python and Web development<br><br>
+I'm a CSE Student<br>Currently learning Java and Web development<br><br>
 
 
 ## 🌐 Socials:
