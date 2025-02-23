@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Sneha N G <br> CSE Student <br>Currently learning Java and Web development
+Hi, Sneha N G <br> CSE Student <br>Currently learning C++ and Cybersecurity
 
 
 ## 🌐 Socials:
